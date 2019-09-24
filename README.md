@@ -1,7 +1,9 @@
 # misc
 Random bits, things, and doodads.
 - DeadfishX-Fidsofar:
-   An interpreter of [Deadfish X](https://esolangs.org/wiki/Deadfish_x), with commands that make more sense.
+   An interpreter of [Deadfish X], with commands that make more sense.
+- GemMatch:
+    A classic gem-matching game, based on the course by [The Great Courses Plus].
 - Muggins-KnockOut:
    A program that takes the dice rolled in [Muggins] or [Knockout] and gives you possible moves.
 - Quine:
@@ -19,6 +21,8 @@ Random bits, things, and doodads.
 - diningPhils:
    The classic [Dining Philosiphers] problem.
 
+[Deadfish X]: https://esolangs.org/wiki/Deadfish_x
+[The Great Courses Plus]: thegreatcoursesplus.com
 [Muggins]: https://boardgamegeek.com/boardgame/16944/muggins
 [Knockout]: https://boardgamegeek.com/boardgame/16945/knock-out
 [quine]: https://en.wikipedia.org/wiki/Quine_(computing)
