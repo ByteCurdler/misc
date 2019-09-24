@@ -1,3 +1,3 @@
 # misc
 Random bits, things, and doodads.
-More info in [programs/LIST.md](./Programs/LIST.md)
+More info in [Programs/LIST.md](./Programs/LIST.md)
