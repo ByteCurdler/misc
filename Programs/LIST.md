@@ -18,6 +18,8 @@
    Searches a given [Boggle] board for words.
 - diningPhils:
    The classic [Dining Philosiphers] problem.
+- soundcloud-download:
+   A downloader for [SoundCloud] songs.
 
 [Deadfish X]: https://esolangs.org/wiki/Deadfish_x
 [The Great Courses Plus]: thegreatcoursesplus.com
@@ -28,3 +30,4 @@
 [Three of a Crime]: https://boardgamegeek.com/boardgame/7641/three-crime
 [Boggle]: https://boardgamegeek.com/boardgame/1293/boggle
 [Dining Philosiphers]: https://rosettacode.org/wiki/Dining_philosophers
+[SoundCloud]: https://soundcloud.com/
